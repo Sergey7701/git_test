@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-$dev-3;
+include 'dev3.php';
 
         ?>
     </body>
