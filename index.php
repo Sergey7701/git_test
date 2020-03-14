@@ -11,10 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-dev-2
-div-1
-$dev-3;
-
+        include 'dev1.php';
         ?>
     </body>
 </html>
