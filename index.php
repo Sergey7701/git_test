@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         include 'dev1.php';
+        include 'dev-2.php';
+
         ?>
     </body>
 </html>
