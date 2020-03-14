@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         include 'dev1.php';
         include 'dev-2.php';
+        include 'dev3.php';
 
         ?>
     </body>
