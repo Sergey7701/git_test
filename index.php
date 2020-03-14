@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
 dev-2
 div-1
+$dev-3;
 
         ?>
     </body>
